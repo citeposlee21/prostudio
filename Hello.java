@@ -1,1 +1,4 @@
-Bye Bye Java
+<<<<<<
+fix conflict
+Hi Java
+>>>>>>> develop2
