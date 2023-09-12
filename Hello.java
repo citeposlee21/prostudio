@@ -1,1 +1,1 @@
-Hello Java!
+Bye Java
